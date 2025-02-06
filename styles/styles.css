@@ -551,6 +551,10 @@ list-style: none;
     display: none;
 }
 
+.foot-2 ul li a{
+    text-decoration: none;
+}
+
 @media screen and (max-width:576px){
     .nav-1 h3{
         display: none;
