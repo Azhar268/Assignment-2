@@ -556,6 +556,9 @@ list-style: none;
     color: white;
 }
 
+
+/* for mobile devices */
+
 @media screen and (max-width:576px){
     .nav-1 h3{
         display: none;
