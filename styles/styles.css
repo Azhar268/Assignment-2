@@ -553,6 +553,7 @@ list-style: none;
 
 .foot-2 ul li a{
     text-decoration: none;
+    color: white;
 }
 
 @media screen and (max-width:576px){
